@@ -1,0 +1,2 @@
+ram_message = "congratulations for winning a gold medal"
+print(ram_message.upper())
